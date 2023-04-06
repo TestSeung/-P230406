@@ -1,13 +1,9 @@
 #pragma once
-class FGoblin
-{
-public:
-	//property,member variable
-	int MP;
-	int HP;
+#include "Character.h"
 
-	//method,member fuction
-	void Move();
-	void Atteck();
+class FGoblin : public Character
+{
+
+
 private:
 };

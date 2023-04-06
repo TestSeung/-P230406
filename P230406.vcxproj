@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Character.cpp" />
     <ClCompile Include="Fgoblin.cpp" />
     <ClCompile Include="FPlayer.cpp" />
     <ClCompile Include="Fslime.cpp" />
@@ -134,6 +135,7 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Character.h" />
     <ClInclude Include="Fgoblin.h" />
     <ClInclude Include="FPlayer.h" />
     <ClInclude Include="Fslime.h" />
