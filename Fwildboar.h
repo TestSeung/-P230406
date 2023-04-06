@@ -1,5 +1,5 @@
 #pragma once
-class Fwildboar
+class FWildboar
 {
 public:
 	//property,member variable

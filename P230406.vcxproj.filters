@@ -27,19 +27,22 @@
     <ClCompile Include="Fwildboar.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Fgoblin.h">
-      <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="FPlayer.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="Fwildboar.h">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Fslime.h">
-      <Filter>소스 파일</Filter>
+      <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Fwildboar.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="FPlayer.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Fgoblin.h">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
