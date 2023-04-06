@@ -131,7 +131,7 @@
     <ClCompile Include="FPlayer.cpp" />
     <ClCompile Include="Fslime.cpp" />
     <ClCompile Include="Fwildboar.cpp" />
-    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Fgoblin.h" />
