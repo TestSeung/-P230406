@@ -1,9 +1,9 @@
-#include "Fgoblin.h"
+#include "FGoblin.h"
 
-void Fgoblin::Move()
+void FGoblin::Move()
 {
 }
 
-void Fgoblin::Atteck()
+void FGoblin::Atteck()
 {
 }

@@ -1,5 +1,5 @@
 #pragma once
-class Fgoblin
+class FGoblin
 {
 public:
 	//property,member variable

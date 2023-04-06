@@ -1,9 +1,9 @@
-#include "Fslime.h"
+#include "FSlime.h"
 
-void Fslime::Move()
+void FSlime::Move()
 {
 }
 
-void Fslime::Atteck()
+void FSlime::Atteck()
 {
 }

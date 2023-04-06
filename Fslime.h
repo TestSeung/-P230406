@@ -1,5 +1,5 @@
 #pragma once
-class Fslime
+class FSlime
 {
 public:
 	//property,member variable
